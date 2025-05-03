@@ -5,7 +5,7 @@ title: Home
 
 hero:
   name: "KernelSU Next"
-  text: "A kernel-based root solution for Android"
+  text: "An advanced kernel-based root solution for Android"
   tagline: Supports kernel 4.4 - 6.6 (Non-GKI & GKI)
   image:
     src: /logo.png
