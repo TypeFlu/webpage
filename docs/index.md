@@ -20,9 +20,9 @@ hero:
 
 features:
   - title: Non-GKI kernel support
-    details: Non-GKI kernel support from 4.x - 5.4 LTS (3.x is experimental)
+    details: Non-GKI kernel support from 4.x - 5.4 with LTS mode (3.x is experimental)
   - title: GKI kernel support
-    details: GKI kernels support LKM/KMI methods for easy installation
+    details: GKI kernels support from 5.10 - 6.6 with GKI mode (6.6+ is experimental)
   - title: Dynamic module mount
     details: Includes both Magic Mount and OverlayFS, which can be switched from the settings with a single toggle
   - title: New manager features
