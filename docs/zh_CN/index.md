@@ -1,7 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: Android 上的内核级的 root 方案
+title: Android 上的高级内核级 root 解决方案
 
 hero:
   name: "KernelSU Next"
@@ -19,10 +19,10 @@ hero:
       link: https://github.com/KernelSU-Next/KernelSU-Next
 
 features:
-  - title: 非 GKI 内核支持
-    details: 支持 4.x 至 5.4 LTS 版本的非 GKI 内核（3.x 为实验性支持）
-  - title: 简易安装
-    details: GKI 内核支持通过可加载内核模块（LKM）快速安装 KernelSU Next 至启动镜像
+  - 标题：非 GKI 内核支持
+详情：4.x - 5.4 版本支持非 GKI 内核，且采用 LTS 模式（3.x 版本为实验性版本）
+- 标题：GKI 内核支持
+详情：5.10 - 6.6 版本支持 GKI 内核，且采用 GKI 模式（6.6 及以上版本为实验性版本）
   - title: 动态模块挂载
     details: 支持 Magic Mount 和 OverlayFS 两种模块挂载模式，可根据喜好通过设置轻松切换
   - title: 全新设计的管理器
